@@ -19,4 +19,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3314-harsh&show_icons=true&locale=en" alt="3314-harsh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3314-harsh&" alt="3314-harsh" /></p>
